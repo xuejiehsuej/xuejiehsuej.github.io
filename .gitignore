@@ -1,0 +1,11 @@
+node_modules/
+dist/
+docs/qa/
+docs/reference/
+.DS_Store
+*.log
+.env*
+*.private.json
+task_plan.md
+findings.md
+progress.md
